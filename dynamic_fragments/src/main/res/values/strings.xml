@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DynamicFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">
+        Welcome to my app\n
+        Click a name above to see their info.
+    </string>
+</resources>
