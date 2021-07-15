@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Bar Demo</string>
+    <string name="app_name_2">My Demo</string>
+    <string name="action_about">About</string>
+    <string name="action_contact">Contact</string>
+    <string name="app_about">About Page</string>
+    <string name="app_contact">Contact Us</string>
+</resources>
