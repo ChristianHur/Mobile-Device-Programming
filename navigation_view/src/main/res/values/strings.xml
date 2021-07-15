@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Favorite Activities</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eatery">My Favorite Eateries</string>
+    <string name="home">Home Page</string>
+    <string name="hotel">Hotels</string>
+    <string name="user">User Info</string>
+    <string name="contact">Contact Us</string>
+    <string name="location">Our Location</string>
+</resources>
