@@ -38,19 +38,4 @@ public class ResultActivity extends AppCompatActivity {
 
         textView.setText(data);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
