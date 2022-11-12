@@ -1,8 +1,6 @@
-# 152-164-Mobile-Device-Programming
+# Mobile Device Programming
 
 Welcome to Mobile Device Programming!
-
-[Gateway Technical College](https://gtc.edu)
 
 ## Course Description
 This course teaches students to develop applications for mobile platforms. Students will utilize a
